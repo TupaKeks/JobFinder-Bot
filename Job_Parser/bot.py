@@ -6,8 +6,8 @@ from aiogram.filters import Command
 from aiogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 from main import parse_jobs
 
-TOKEN = "8101806901:AAHLEYE8bADwfPYAGWwkKCnbGtAnkgK46uU"
-CHAT_ID = "874533571"
+TOKEN = ""
+CHAT_ID = ""
 JOBS_FILE = "job_data.json"
 SENT_JOBS_FILE = "sent_jobs.json"
 
